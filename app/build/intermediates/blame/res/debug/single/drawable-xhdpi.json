@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher_old.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/android_divelog.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/android_divelog.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/accept.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/accept.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/nextitem.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/nextitem.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/cancel.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/previousitem.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/previousitem.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/edit.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/edit.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_add.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_sync.png",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable-xhdpi/ic_sync.png"
+    }
+]

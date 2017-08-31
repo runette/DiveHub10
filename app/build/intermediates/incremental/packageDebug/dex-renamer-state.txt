@@ -1,0 +1,7 @@
+#Thu Aug 31 18:55:51 SGT 2017
+base.0=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3afb0427eb980c3a64dba02ef5d3caa92ca268c3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3723bb4ec5693930d34f99bee0758022d008ce23/classes.dex
+base.1=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3723bb4ec5693930d34f99bee0758022d008ce23
+file.0=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3afb0427eb980c3a64dba02ef5d3caa92ca268c3/classes.dex

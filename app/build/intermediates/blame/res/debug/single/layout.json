@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_divesite_twopane.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_divesite_twopane.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/fragment_dive_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/fragment_dive_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_divesite_list.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_divesite_list.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_divesite_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_divesite_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_person_twopane.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_person_twopane.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/fragment_signature_land.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/fragment_signature_land.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/dive_list_row_land.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/dive_list_row_land.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_dive_list.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_dive_list.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_drop_box_loader.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_drop_box_loader.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/fragment_signature.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/fragment_signature.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/fragment_divesite_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/fragment_divesite_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_dive_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_dive_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_divinglog_adapter.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_divinglog_adapter.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_dive_twopane.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_dive_twopane.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/task_preferences.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/task_preferences.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/fragment_person_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/fragment_person_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_person_detail.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_person_detail.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/dive_list_row.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/dive_list_row.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_person_list.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_person_list.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/layout/activity_signature.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/layout/activity_signature.xml"
+    }
+]

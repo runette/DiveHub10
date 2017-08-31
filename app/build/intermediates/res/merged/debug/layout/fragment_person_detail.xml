@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/personfirstnametext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/person_firstname_text" />
+
+
+    <EditText
+        android:id="@+id/personfirstname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/personfirstnametext"
+        android:layout_alignParentRight="true"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/personlastnametext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/personfirstnametext"
+        android:layout_marginTop="24dp"
+        android:text="@string/person_lastname_text" />
+
+    <EditText
+        android:id="@+id/personlastname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/personlastnametext"
+        android:layout_alignParentRight="true"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/personphonetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/personlastnametext"
+        android:layout_marginTop="24dp"
+        android:text="@string/person_phone_text" />
+
+    <EditText
+        android:id="@+id/personphone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/personphonetext"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="90dp"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/personmobiletext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/personphonetext"
+        android:layout_marginTop="24dp"
+        android:text="@string/person_mobile_text" />
+
+    <EditText
+        android:id="@+id/personmobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/personmobiletext"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="phone" />
+
+    <TextView
+        android:id="@+id/personemailetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/personmobiletext"
+        android:layout_marginTop="24dp"
+        android:text="@string/person_email_text" />
+
+    <EditText
+        android:id="@+id/personemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/personemailetext"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
+
+</RelativeLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/sitenametext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="21dp"
+        android:text="@string/site_name_text" />
+    
+    <EditText
+        android:id="@+id/sitename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/sitenametext"
+        android:layout_marginLeft="58dp"
+        android:layout_toRightOf="@id/sitenametext"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/sitelocationtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sitenametext"
+        android:layout_below="@+id/sitenametext"
+        android:layout_marginTop="22dp"
+        android:text="@string/site_location_text" />
+    
+     <EditText
+        android:id="@+id/sitelocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sitename"
+        android:layout_alignTop="@+id/sitelocationtext"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/sitecountrytext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sitelocationtext"
+        android:layout_below="@+id/sitelocationtext"
+        android:layout_marginTop="28dp"
+        android:text="@string/site_country_text" />
+
+    <EditText
+        android:id="@+id/sitecountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sitelocation"
+        android:layout_alignTop="@+id/sitecountrytext"
+        android:ems="10" />
+
+</RelativeLayout>

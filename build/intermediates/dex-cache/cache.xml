@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0fa051881770eb094d805153eda65e132c78b479">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3afb0427eb980c3a64dba02ef5d3caa92ca268c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3723bb4ec5693930d34f99bee0758022d008ce23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/dropbox-android-sdk-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6ad8a7da0efe77fcfe56614f8e9ad4d9f7a42f4">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.5.1_da4db2abca14b4e980dfd771a8a76852d6d58899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/commons-codec-1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cd61d269c88f9fb0eb36cea1efcd596ab74772f">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.7_b36956f1f0d9c036f66142ff453f489222ceb441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_3f2c1d2e0bf04eef63b0ee5f2fd91d8ea0d0e902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/httpcore-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cef8e735e306f6be94b609be815854f9cf36eb6">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0.1_1d66e6a22f3ab9ec884ed11db7d6dfa4e1040a52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_49bf38a6ed96572f40df2a7f42b6286b35352649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/commons-logging-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.1.1_bb579c3eb87f0d7f4216014060d7a377b28339cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/httpclient-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eebf00fc3417031e9fa34afd85ccf11365ca2304">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.3_978e29368e0b339973d9949048089a303825d5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/libs/httpmime-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.0.3_444bffbdb27b4ba1ef9aef0584ecc1b3387edc03/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+#Thu Aug 31 18:55:48 SGT 2017
+renamed.7=classes5.dex
+renamed.6=classes3.dex
+renamed.5=classes4.dex
+renamed.4=classes8.dex
+renamed.3=classes7.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.7=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.3_978e29368e0b339973d9949048089a303825d5c6
+base.6=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.1.1_bb579c3eb87f0d7f4216014060d7a377b28339cc
+base.5=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.5.1_da4db2abca14b4e980dfd771a8a76852d6d58899
+base.4=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_3f2c1d2e0bf04eef63b0ee5f2fd91d8ea0d0e902
+base.3=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.0.3_444bffbdb27b4ba1ef9aef0584ecc1b3387edc03
+base.2=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_49bf38a6ed96572f40df2a7f42b6286b35352649
+base.1=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.7_b36956f1f0d9c036f66142ff453f489222ceb441
+base.0=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0.1_1d66e6a22f3ab9ec884ed11db7d6dfa4e1040a52
+file.7=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.0.3_978e29368e0b339973d9949048089a303825d5c6/classes.dex
+file.6=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.1.1_bb579c3eb87f0d7f4216014060d7a377b28339cc/classes.dex
+file.5=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/dropbox-android-sdk-1.5.1_da4db2abca14b4e980dfd771a8a76852d6d58899/classes.dex
+file.4=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_3f2c1d2e0bf04eef63b0ee5f2fd91d8ea0d0e902/classes.dex
+file.3=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.0.3_444bffbdb27b4ba1ef9aef0584ecc1b3387edc03/classes.dex
+file.2=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_49bf38a6ed96572f40df2a7f42b6286b35352649/classes.dex
+file.1=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.7_b36956f1f0d9c036f66142ff453f489222ceb441/classes.dex
+file.0=/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0.1_1d66e6a22f3ab9ec884ed11db7d6dfa4e1040a52/classes.dex

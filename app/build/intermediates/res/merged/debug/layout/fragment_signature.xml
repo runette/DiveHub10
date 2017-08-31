@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <com.runette.divehub.SignatureView
+        android:id="@+id/signature_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dip" />
+    
+	
+
+	    
+	    <TextView
+		            android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:focusable="false"
+		            android:text="@string/signature_hint_text" />
+	    
+	    
+	    
+	    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="horizontal" >
+
+		<Button
+		    android:id="@+id/signature_clear"
+		    android:layout_width="155dp"
+		    android:layout_height="wrap_content"
+		    android:text="@string/signature_clear_text" />
+
+		<Button
+		    android:id="@+id/signature_accept"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/signature_accept_text" />
+
+	</LinearLayout>
+
+</LinearLayout>

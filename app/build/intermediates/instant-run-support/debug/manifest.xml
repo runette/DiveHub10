@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.runette.divehub"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+
+    <application
+        android:icon="@drawable/android_divelog"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo" >
+        <activity
+            android:name="com.runette.divehub.DiveListActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_dive_list" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.runette.divehub.DiveDetailActivity"
+            android:label="@string/title_dive_detail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DiveListActivity" />
+        </activity>
+        <activity
+            android:name="com.runette.divehub.TaskPreferences"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.runette.divehub.DiveSiteListActivity"
+            android:label="@string/title_divesite_list" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.runette.divehub.DiveDetailActivity" />
+        </activity>
+        <activity
+            android:name="com.runette.divehub.DiveSiteDetailActivity"
+            android:label="@string/title_divesite_detail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DiveSiteListActivity" />
+        </activity>
+        <activity
+            android:name="com.runette.divehub.PersonListActivity"
+            android:label="@string/title_person_list" >
+        </activity>
+        <activity
+            android:name="com.runette.divehub.PersonDetailActivity"
+            android:label="@string/title_person_detail" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PersonListActivity" />
+        </activity>
+        <activity
+            android:name="com.runette.divehub.SignatureActivity"
+            android:label="@string/title_activity_signature" >
+        </activity>
+        <activity
+            android:name="com.runette.divehub.DivinglogAdapter"
+            android:label="@string/title_activity_divinglog_adapter" >
+        </activity>
+        <activity
+            android:name="com.dropbox.client2.android.AuthActivity"
+            android:configChanges="orientation|keyboard"
+            android:launchMode="singleTask" >
+            <intent-filter>
+
+                <!-- Change this to be db- followed by your app key -->
+                <data android:scheme="db-77q1mlb879j8uja" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.runette.divehub.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

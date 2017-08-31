@@ -1,0 +1,8 @@
+<resources>
+
+    <item name="activity_dive_list" type="layout">@layout/activity_dive_twopane</item>
+    <item name="activity_divesite_list" type="layout">@layout/activity_divesite_twopane</item>
+    <item name="activity_person_list" type="layout">@layout/activity_person_twopane</item>
+    
+
+</resources>

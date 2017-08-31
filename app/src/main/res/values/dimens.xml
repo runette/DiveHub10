@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dive_number_size">30sp</dimen>
+    <dimen name="dive_number_size_land">20sp</dimen>
+    <dimen name="dive_list_size">14sp</dimen>
+    <dimen name="dive_list_size_land">9sp</dimen>
+</resources>

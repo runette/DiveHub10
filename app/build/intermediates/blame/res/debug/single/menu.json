@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/list_menu_item_longpress.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/list_menu_item_longpress.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/detail_menu.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/detail_menu.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/site_list_menu.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/site_list_menu.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/activity_divinglog_adapter.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/activity_divinglog_adapter.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/detail_menu_land.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/detail_menu_land.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/activity_drop_box_loader.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/activity_drop_box_loader.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/signature_menu.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/signature_menu.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/people_list_menu.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/people_list_menu.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/menu/list_menu.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/menu/list_menu.xml"
+    }
+]

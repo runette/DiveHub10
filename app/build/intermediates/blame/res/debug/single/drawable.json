@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable/divider.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/res/merged/debug/drawable/box.xml",
+        "source": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/drawable/box.xml"
+    }
+]

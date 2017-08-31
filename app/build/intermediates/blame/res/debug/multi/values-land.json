@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 86,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 86,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 94,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 94,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 90,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 90,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 78,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 78,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 88,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 88,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 70,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/pharwood/AndroidStudioProjects/DiveHub v102/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 70,
+                        "endOffset": 569
+                    }
+                }
+            }
+        ]
+    }
+]

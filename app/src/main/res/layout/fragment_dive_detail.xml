@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent" >
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+		    <LinearLayout
+		        android:layout_width="161dp"
+		        android:layout_height="wrap_content"
+		        android:orientation="vertical" >
+	        
+
+		        <TextView
+		            android:layout_width="144dp"
+		            android:layout_height="match_parent"
+		            android:focusable="true"
+		            android:text="@string/number" />
+	
+		        <EditText
+		            android:id="@+id/divenumber"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:inputType="number" />
+	          </LinearLayout>
+	        <Button
+	            android:id="@+id/advancedbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50" 
+	            android:text="@string/advancedbutton"/>
+	        <Button
+	            android:id="@+id/rebratherbutton"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50" 
+	        	android:text="@string/rebreatherbutton"/>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1.41"
+	            android:text="@string/date" />
+
+	        <TextView
+	            android:layout_width="155dp"
+	            android:layout_height="match_parent"
+	            android:text="@string/time" />
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+	        <Button
+	            android:id="@+id/reminder_date"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50" />
+
+	        <Button
+	            android:id="@+id/reminder_time"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50" />
+	    </LinearLayout>
+
+	    <TextView
+	        android:layout_width="100dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1"
+	        android:text="@string/site" />
+
+	    <Button
+	        android:id="@+id/site"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="50" />
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:layout_weight="1.41"
+	            android:text="@string/depth" />
+
+	        <TextView
+	            android:layout_width="155dp"
+	            android:layout_height="match_parent"
+	            android:text="@string/duration" />
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+	        <EditText
+	            android:id="@+id/depth"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50"
+	            android:inputType="numberDecimal"
+	            android:text="@string/depthdefault" >
+
+	            <requestFocus />
+	        </EditText>
+
+	        <EditText
+	            android:id="@+id/duration"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="50"
+	            android:inputType="numberDecimal"
+	            android:text="@string/durationdefault" />
+	    </LinearLayout>
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+	        
+	        <LinearLayout android:layout_width="161dp" android:layout_height="wrap_content" android:orientation="vertical">
+	        
+			    <TextView android:layout_width="100dp" android:layout_height="match_parent" android:layout_weight="1" android:text="@string/buddy" />
+		
+			    <Button android:id="@+id/buddy" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="50" />
+			    </LinearLayout>
+			    <LinearLayout android:layout_width="161dp" android:layout_height="wrap_content" android:orientation="vertical">
+			     <TextView android:layout_width="100dp" android:layout_height="match_parent" android:layout_weight="1" android:text="@string/divemaster" />
+		
+			    <Button android:id="@+id/divemaster" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="50" />
+			    
+			    </LinearLayout>
+		</LinearLayout>
+
+		<FrameLayout
+		    android:id="@+id/spacer"
+		    android:layout_width="match_parent"
+		    android:layout_height="1dp"
+		    android:background="@drawable/divider"
+		    android:foreground="@drawable/divider" />
+
+	     <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	    
+	     <Button
+	         android:id="@+id/comment_buitton"
+	         android:layout_width="0dp"
+	         android:layout_height="wrap_content"
+	         android:layout_weight="50"
+	         android:minHeight="15dip"
+	         android:text="@string/commentbutton"
+	         android:textSize="@dimen/dive_list_size" />
+
+	      <Button
+	          android:id="@+id/signature_button"
+	          android:layout_width="0dp"
+	          android:layout_height="wrap_content"
+	          android:layout_weight="50"
+	          android:minHeight="15dip"
+	          android:text="@string/signaturebutton"
+	          android:textSize="@dimen/dive_list_size" />
+
+	      </LinearLayout>
+	    
+	    
+
+	    <FrameLayout
+	        android:id="@+id/comments"
+	        android:layout_width="match_parent"
+	        android:layout_height="150dp"
+	        android:inputType="textMultiLine"
+	        android:scrollbars="vertical" />
+
+	    	    
+	</LinearLayout>
+
+</ScrollView>
